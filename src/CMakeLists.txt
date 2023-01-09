@@ -3,13 +3,13 @@
 #
 # Kyle Gerheiser, Mark Potts
 
-add_subdirectory(cnvgrib)
+#add_subdirectory(cnvgrib)
 add_subdirectory(copygb)
-add_subdirectory(copygb2)
-add_subdirectory(grb2index)
-add_subdirectory(degrib2)
-add_subdirectory(grbindex)
-add_subdirectory(tocgrib)
-add_subdirectory(tocgrib2)
-add_subdirectory(tocgrib2super)
-add_subdirectory(wgrib)
+#add_subdirectory(copygb2)
+#add_subdirectory(grb2index)
+#add_subdirectory(degrib2)
+#add_subdirectory(grbindex)
+#add_subdirectory(tocgrib)
+#add_subdirectory(tocgrib2)
+#add_subdirectory(tocgrib2super)
+#add_subdirectory(wgrib)
